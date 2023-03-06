@@ -1,24 +1,24 @@
 public class Address {
 
-    private String addressText;
+    private String text;
     private String district;
     private String city;
 
     public Address(String city, String district, String text) {
         this.city=city;
         this.district=district;
-        this.addressText = text; 
+        this.text = text; 
     }
 
 
     public String getText() {
 
-        return addressText;
+        return text;
     }
 
     public void setText(String text) {
 
-        this.addressText = text;
+        this.text = text;
     }
 
     public String getDistrict() {
