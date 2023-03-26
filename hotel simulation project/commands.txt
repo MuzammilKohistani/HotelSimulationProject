@@ -1,0 +1,67 @@
+
+
+addRoom;2;rasdasdasd;true;false;1000
+addRoom;1;deluxe;true;true;2000
+addRoom;1;suite;true;true;4000
+addRoom;1;regular;true;false;1000
+addRoom;2;deluxe;true;true;2000
+addRoom;3;suite;false;true;4000
+addRoom;1;deluxe;true;false;2000
+addRoom;2;suite;true;true;4000
+
+listRooms
+
+addEmployee;Ali;Arslan;male;5.5.1977;120. Sokak No:12;Bornova;Izmir;+90234445566;admin;16000
+addEmployee;Adem;Fidan;male;29.5.1988;Ada Cad. No:10;Buca;Izmir;+902326667788;receptionist;8000
+addEmployee;Burcu;Kaya;female;15.6.1980;Yaka Cad. No:7;Urla;Izmir;+902321112233;housekeeper;6000
+addEmployee;John;Doe;Male;01.01.1980;123 Main St;District A;City A;+11234567890;Admin;50000
+addEmployee;Jane;Doe;Female;01.02.1985;456 Second Ave;District B;City A;+12345678901;Receptionist;35000
+addEmployee;Mike;Smith;Male;01.03.1990;789 Third St;District C;City B;+13456789012;House keeper;30000
+addEmployee;Samantha;Johnson;Female;01.04.1986;456 Fourth St;District D;City C;+14567890123;Admin;55000
+addEmployee;Mark;Williams;Male;01.05.1982;789 Fifth Ave;District E;City B;+15678901234;Receptionist;40000
+addEmployee;Sarah;Lee;Female;01.06.1978;234 Sixth St;District F;City C;+16789012345;House keeper;32000
+addEmployee;Jason;Chan;Male;01.07.1984;345 Seventh Ave;District G;City D;+17890123456;Admin;60000
+addEmployee;Emily;Ng;Female;01.08.1988;678 Eighth St;District H;City D;+18901234567;Receptionist;38000
+addEmployee;David;Wong;Male;01.09.1992;789 Ninth Ave;District I;City E;+19012345678;House keeper;31000
+addEmployee;Jessica;Zhang;Female;01.10.1981;890 Tenth St;District J;City F;+11023456789;Admin;58000
+addEmployee;Robert;Chen;Male;01.11.1987;567 Eleventh Ave;District K;City G;+12034567890;Receptionist;42000
+addEmployee;Lisa;Lin;Female;01.12.1979;456 Twelfth St;District L;City H;+13145678901;House keeper;29000
+addEmployee;Michael;Liu;Male;02.01.1983;789 Thirteenth Ave;District M;City I;+14256789012;Admin;53000
+addEmployee;Christine;Chang;Female;02.02.1989;234 Fourteenth St;District N;City J;+15367890123;Receptionist;37000
+addEmployee;William;Chu;Male;02.03.1991;456 Fifteenth Ave;District O;City K;+16478901234;House keeper;34000
+addEmployee;Jennifer;Kim;Female;02.04.1980;567 Sixteenth St;District P;City L;+17589012345;Admin;62000
+addEmployee;Andrew;Hong;Male;02.05.1986;789 Seventeenth Ave;District Q;City M;+18690123456;Receptionist;39000
+
+deleteEmployee;19
+listEmployees
+
+addCustomer;Zeynep;Ak;female;15.6.1980;Ata Cad. No:2;Urla;Izmir;+902321112233
+addCustomer;Cem;Kara;male;5.12.2000;150. Sokak No:7 D:3;Taksim;Istanbul;+902125556677
+addCustomer;Zerrin;Dal;female;12.7.1995;Demir Cad. No:3;Mamak;Ankara;+903123332211
+
+listCustomers
+
+searchCustomer;Ze*
+
+searchRoom;25.4.2024;30.4.2024
+
+addReservation;4;4;10.4.2024;10.9.2024
+addReservation;3;1;25.4.2024;30.4.2024
+addReservation;1;2;20.4.2024;30.4.2024
+addReservation;2;3;28.4.2024;5.5.2024
+
+
+
+
+addCustomer;Hakan;Yazar;male;20.8.1968;Bulut Cad. No:1;Alsancak;Izmir;+902321234321
+
+searchRoom;10.4.2024;10.9.2024
+
+
+
+listReservations
+
+statistics
+
+simulation;25.4.2024;2.5.2024
+simulation;10.10.2024;12.10.2024
